@@ -1,0 +1,26 @@
+body {background-color: rgb(21, 7, 141);}
+
+.content{
+  padding: 20px;
+  background-color: yellow;
+}
+
+.card{
+  text-align: center;
+  padding: 12px;
+}
+
+.h2{
+  font-size: larger;
+}
+
+.btn{
+  height: 20px;
+  color: green;
+  box-shadow: 4px;
+}
+
+.button{
+  color: rgb(190, 13, 13);
+  
+}
